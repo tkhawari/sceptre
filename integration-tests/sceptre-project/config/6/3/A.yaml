@@ -1,0 +1,3 @@
+template_path: output_template.json
+parameters:
+  Input: "TestValue"
